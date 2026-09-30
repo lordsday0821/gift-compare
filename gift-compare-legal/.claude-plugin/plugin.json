@@ -1,0 +1,6 @@
+{
+  "name": "gift-compare-legal",
+  "description": "판촉물 가격 비교 서비스(gift-compare)를 위한 한국법 기반 법무 검토 플러그인. 모든 산출물은 변호사 검토용 초안입니다.",
+  "version": "0.1.0",
+  "license": "Apache-2.0"
+}

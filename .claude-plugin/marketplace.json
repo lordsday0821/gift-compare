@@ -1,0 +1,15 @@
+{
+  "name": "gift-compare-legal",
+  "owner": { "name": "lordsday0821" },
+  "metadata": {
+    "description": "gift-compare(판촉물 가격 비교 서비스)를 위한 한국법 기반 법무 검토 플러그인 마켓플레이스"
+  },
+  "plugins": [
+    {
+      "name": "gift-compare-legal",
+      "source": "./gift-compare-legal",
+      "description": "크롤링 적법성, 개인정보, 표시·광고(제휴 링크), 전자상거래, 계약 검토 — 변호사 검토용 초안 작성 도구",
+      "version": "0.1.0"
+    }
+  ]
+}
