@@ -18,6 +18,7 @@
 | `privacy-review` | 개인정보 수집·처리방침·위탁·국외이전 검토 |
 | `ad-disclosure-review` | 제휴 링크/광고 표시, 가격 비교 표현의 표시·광고법 검토 |
 | `ecommerce-terms-review` | 이용약관, 통신판매업·중개 책임 고지 검토 |
+| `general-legal-qa` | 서비스와 무관한 일반 법률 질문(한국법) Q&A — 결론·근거·확인사항·상담 필요 여부 형식 |
 | `contract-review` | 판매처 제휴/공급 계약, NDA 검토 및 에스컬레이션 |
 
 ## 구조
